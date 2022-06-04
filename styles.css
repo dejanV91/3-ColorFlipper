@@ -9,7 +9,7 @@ body{
     min-width: 300px;
     min-height: 100vh;
     height: 100%;
-    
+    background-color: #F0FFFF;
 }
 
 nav {
@@ -89,6 +89,7 @@ main{
 
 .main-div h2 span {
     color: rgb(154, 154, 228);
+    text-transform: capitalize;
 }
 
 .main-div button {
